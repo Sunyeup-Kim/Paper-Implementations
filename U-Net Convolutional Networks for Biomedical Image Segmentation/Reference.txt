@@ -1,0 +1,7 @@
+Multi class Segmentation & Binary Segmentation
+- https://medium.com/@mhamdaan/multi-class-semantic-segmentation-with-u-net-pytorch-ee81a66bba89
+- https://darshita1405.medium.com/extending-binary-image-segmentation-to-multi-class-image-segmentation-714a77692f1d
+
+Making Custom Datasets for DataLoader
+- https://medium.com/towards-data-science/building-efficient-custom-datasets-in-pytorch-2563b946fd9f
+- https://wikidocs.net/57165
