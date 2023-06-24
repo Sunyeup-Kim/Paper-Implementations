@@ -1,8 +1,8 @@
-Things I learned after implementating the UNet
+**Things I learned after implementating the UNet**
 
 * Even I do the upsampling, the size of height and width were not same in contracting path. So I have to crop the tensor to match the size.
 * Author didn't use the same padding.
-* Formulation of convolution output size
+* Formulation of convolution output size<br>
   outsize = (input - 1) * stride - 2* padding + kernal + output padding
 * Two kind of segmentation, Binary segmentation which also called as Semantic Segmentation and Multi-class segmentation which also called as Instance Segmentation
 * Author used cross-entropy loss function for training
